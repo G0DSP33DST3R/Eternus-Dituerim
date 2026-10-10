@@ -1,0 +1,14 @@
+These are notes from the author of this game.
+
+Please dont get confused on this one note.
+    The game modifies the currently loaded character or NPC. Only one can be loaded at a time,
+    basically this means ED is looking at the file for that character at that moment in time.
+
+    so if you want to change certain things about one character and already have one loaded,
+    unload the current character to load the next.
+
+Stat roles are 4 D6 roles and the lowest of your D6 roles is removed from the total count
+    I.e. roll 3|6|5|2 total count is 3+6+5 which equals 14.
+
+    currency is rolled via 2D20 + 1D8 and multiplying that by 10
+    I.e roll 18|11|5 total count is 18+11+5 which equals 34 * 10 is 340. that is your currency.

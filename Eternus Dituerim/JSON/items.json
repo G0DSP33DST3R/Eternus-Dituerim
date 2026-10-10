@@ -1,0 +1,11 @@
+[
+    {
+        "name": "wooden sword",
+        "description": "a sword made of wood, flimsy, albeit quite sturdy for training.",
+        "strain": 2500,
+        "modifier": {
+            "stat": "dexterity",
+            "value": 1
+        }
+    }
+]
